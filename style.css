@@ -1,0 +1,26 @@
+*{
+  margin:5px;
+  padding:5px;}
+.center-text{
+  position:relative;
+  text-align: center;}
+.center-element{
+  position:block;
+  margin:0 auto;}
+.container{
+  display:flex;}
+.aside{
+  margin-right:5px;
+  padding:1px;
+  flex:1;}
+.main{
+  margin-left:5px;
+  padding:1px;
+  flex:3}
+.reg-text{
+  font-weight:normal;}
+.bold{
+  font-weight:bold;}
+.nav-header{
+  position:fixed;
+  top:10px;}
