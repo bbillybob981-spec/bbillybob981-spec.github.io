@@ -10,13 +10,16 @@
 .container{
   display:flex;}
 .aside{
-  margin-right:5px;
+  margin-right:1px;
   padding:1px;
   flex:1;}
 .main{
-  margin-left:5px;
+  margin-left:1px;
   padding:1px;
   flex:3}
+.balance{
+  flex:2;
+  padding:1px;}
 .reg-text{
   font-weight:normal;}
 .bold{
