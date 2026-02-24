@@ -25,10 +25,11 @@
 .bold{
   font-weight:bold;}
 .nav-header{
-  height:20px;
+    width:100%;
+  height:30px;
   position:fixed;}
 .not-nav-header{
-  top:20px;} 
+  margin-top:30px;} 
 body{
   height:10000px;}
 h1{
