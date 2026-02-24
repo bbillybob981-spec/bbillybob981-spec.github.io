@@ -27,5 +27,7 @@
 .nav-header{
   height:20px;
   position:fixed;}
+.not-nav-header{
+  top:20px;}
 body{
   height:10000px;}
