@@ -22,6 +22,7 @@
 .bold{
   font-weight:bold;}
 .nav-header{
+  height:20px;
   position:fixed;}
 body{
   height:10000px;}
