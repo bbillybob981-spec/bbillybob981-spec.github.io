@@ -28,12 +28,12 @@
 .bold{
   font-weight:bold;}
 .nav-header{
+  z-axis: 10;
   width:100%;
   min-height:30px;
   position:fixed;}
 .not-nav-header{
   margin-top:30px;} 
+/*This body element is only to demonstrate the nav-header capabilities of staying fixed on your screen you may want to not use this on your real website*/
 body{
   height:10000px;}
-h1{
-  color:red;}
