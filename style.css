@@ -10,14 +10,17 @@
 .container{
   display:flex;}
 .aside{
+  min-height:300px;
   margin-right:1px;
   padding:1px;
   flex:1;}
 .main{
+  min-height:300px;
   margin-left:1px;
   padding:1px;
   flex:3}
 .balance{
+  min-height:200px;
   flex:2;
   padding:1px;}
 .reg-text{
