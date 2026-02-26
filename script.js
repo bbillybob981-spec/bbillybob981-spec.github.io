@@ -6,3 +6,4 @@ for (const paragraph of paragraphs) {
     paragraph.style.color = set;}
   } 
 } 
+ 
