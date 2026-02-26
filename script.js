@@ -4,5 +4,5 @@ for (const paragraph of paragraphs) {
     if (className.includes('color-'){
     let set=className.replace('color-','');
     paragraph.style.color = className;}
-  }
+  } 
 }
