@@ -5,4 +5,4 @@ for (const paragraph of paragraphs) {
     let set=className.replace('color-','');
     paragraph.style.color = className;}
   } 
-}
+} 
