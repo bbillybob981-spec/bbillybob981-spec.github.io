@@ -12,7 +12,7 @@ for (const paragraph of paragraphs) {
       paragraph.style.margin=set+"px";}
     if (className.includes('backgroundColor-')){
       let set=className.replace('backgroundColor-','');
-      paragraph.style.backgroundColor=set+;}
+      paragraph.style.backgroundColor=set;}
     if (className.includes('color-')) {
     let set=className.replace('color-','');
     paragraph.style.color = set;}
